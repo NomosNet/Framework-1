@@ -1,0 +1,11 @@
+bin/
+obj/
+.idea/
+.vs/
+*.user
+*.suo
+*.log
+Framework3Service/bin/
+Framework3Service/obj/
+Framework3Service.Tests/bin/
+Framework3Service.Tests/obj/

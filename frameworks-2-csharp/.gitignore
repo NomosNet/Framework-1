@@ -1,0 +1,16 @@
+bin/
+obj/
+.idea/
+.vs/
+*.user
+*.suo
+*.log
+*.DotSettings.user
+Framework2/bin/
+Framework2/obj/
+Framework2.Abstractions/bin/
+Framework2.Abstractions/obj/
+Framework2.Modules/bin/
+Framework2.Modules/obj/
+Framework2/Framework2.Tests/bin/
+Framework2/Framework2.Tests/obj/
